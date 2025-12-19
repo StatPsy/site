@@ -5,6 +5,6 @@
 
   # StatPsy's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[statpsy.github.io/site](https://statpsy.github.io/site)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
