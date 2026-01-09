@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Elena Benini
 image: images/photo.jpg
-role: phd
-group: alum
+description: Postdoctoral researcher
+role: postdoc
 links:
-  github: john-doe
+  email: elena.benini@unil.ch
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

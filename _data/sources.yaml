@@ -1,23 +1,16 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1162/imag_a_00400
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: The paper describing the Hidden multivariate pattern method
+  date: 2024-12-16
+  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/imag/2/10.1162_imag_a_00400/4/imag_a_00400_fig1.png?Expires=1769599620&Signature=1zBPWdiIwhuKjLt1F7tx4eIZRc6tY0scEpsr9Uaca8TESdGU4hbCB7QkQOVVv4KZnj1SapXPX7xndQsqwkxSfZFVw5FmEJUdPF4ujGRIriQmDkqq9tTR1qg~NrUlmfhxprFT2TouAVRCNWrgeZ0McF7R4D0FPzVCJ-SCypIs1uZSlPihN1SXxGTViPbxE3iNnnmkJwfCy6ajG5JjtqG4TfG5vJlom8y4hnvH9ogF3V6e2VVWMr1CstV4mEgwX~9jH649~MsIfpjwPbKRTDb2pasAUSRGM~uFHQvOAEGKu8~oF61yWbfOCZbeyv9FUbtgI9RyTKrVmpIRI1ZpEILEtQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+    - type: python package
+      link: https://github.com/GWeindel/hmp/
     - type: website
-      link: http://manubot.org/
+      link: https://hmp.readthedocs.io/en/latest/welcome.html
   tags:
     - open science
-    - collaboration
-  repo: greenelab/meta-review
+  repo: GWeindel/hmp
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.7554/eLife.108049
+  image: https://iiif.elifesciences.org/epp/108049%2Fv2%2Fcontent%2F661505v2_fig3.tif/full/max/0/default.jpg

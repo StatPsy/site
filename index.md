@@ -3,7 +3,9 @@
 
 # StatPsy's Website
 
-An engaging 1-3 sentence description of your lab.
+We study the cognitive architecture of the language production and comprehension systems and their links with other cognitive functions using a variety of methods and measurements: response times, eye-tracking, EEG, corpus data.
+
+We have a dedicated interest in applied statistics (machine learning, bayesian models, linear mixed-effects models, etc.) and attach great importance to open science practices. We do our best to use available tools, inculding pre-registration, power-analyses, sharing of data and code.
 
 {% include section.html %}
 
@@ -11,11 +13,9 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,14 +27,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -58,8 +56,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
