@@ -14,3 +14,9 @@
 
 - id: doi:10.7554/eLife.108049
   image: https://iiif.elifesciences.org/epp/108049%2Fv2%2Fcontent%2F661505v2_fig3.tif/full/max/0/default.jpg
+
+# preprint
+- id: doi:10.23668/psycharchives.21167
+  buttons:
+    - type: preprint
+      link: https://doi.org/10.23668/psycharchives.21167
