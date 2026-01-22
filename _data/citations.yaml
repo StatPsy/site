@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.cognition.2025.106316
+  title: 'Say it again, you''ll be faster: Or on how the language production system
+    keeps track of co-occurrences'
+  authors:
+  - "Audrey B\xFCrki"
+  - Julia Pantelmann
+  - Hyien Jeong
+  - "Filip Nenadi\u0107"
+  publisher: Cognition
+  date: '2026-01-01'
+  link: https://doi.org/hbkxsq
+  orcid: 0000-0002-1390-2826
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/23273798.2025.2533864
+  title: Assessing effect sizes, variability, and power in the web-based study of
+    language production
+  authors:
+  - "Audrey B\xFCrki"
+  publisher: Language, Cognition and Neuroscience
+  date: '2025-08-14'
+  link: https://doi.org/hbkxsr
+  orcid: 0000-0002-1390-2826
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/23273798.2024.2328586
   title: What can we learn about integration of novel words into semantic memory from
     automatic semantic priming?
@@ -501,6 +526,110 @@
   orcid: 0000-0002-1390-2826
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3758/s13423-023-02409-9
+  title: 'Evidence of task-triggered retrieval of the previous response: a binding
+    perspective on response-repetition benefits in task switching'
+  authors:
+  - Elena Benini
+  - "Malte M\xF6ller"
+  - Iring Koch
+  - Andrea M. Philipp
+  - Ruyi Qiu
+  - Susanne Mayr
+  publisher: Psychonomic Bulletin &amp; Review
+  date: '2023-11-13'
+  link: https://doi.org/hbkxss
+  orcid: 0000-0002-0215-8894
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00426-023-01904-x
+  title: 'Repetition costs in task switching are not equal to cue switching costs:
+    evidence from a cue-independent context'
+  authors:
+  - Elena Benini
+  - Iring Koch
+  - Andrea M. Philipp
+  publisher: Psychological Research
+  date: '2023-12-19'
+  link: https://doi.org/hbkxst
+  orcid: 0000-0002-0215-8894
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s44271-023-00050-9
+  title: Consensus definitions of perception-action-integration in action control
+  authors:
+  - Christian Frings
+  - Christian Beste
+  - Elena Benini
+  - "Malte M\xF6ller"
+  - David Dignath
+  - Carina G. Giesen
+  - Bernhard Hommel
+  - Andrea Kiesel
+  - Iring Koch
+  - Wilfried Kunde
+  - Susanne Mayr
+  - Viola Mocke
+  - Birte Moeller
+  - "Alexander M\xFCnchau"
+  - Juhi Parmar
+  - "Bernhard Past\xF6tter"
+  - Roland Pfister
+  - Andrea M. Philipp
+  - Ruyi Qiu
+  - Anna Render
+  - Klaus Rothermund
+  - Moritz Schiltenwolf
+  - Philip Schmalbrock
+  publisher: Communications Psychology
+  date: '2024-01-11'
+  link: https://doi.org/g9qn6p
+  orcid: 0000-0002-0215-8894
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/17470218221128546
+  title: Binding of task-irrelevant contextual features in task switching
+  authors:
+  - Elena Benini
+  - Iring Koch
+  - Susanne Mayr
+  - Christian Frings
+  - Andrea M. Philipp
+  publisher: Quarterly Journal of Experimental Psychology
+  date: '2022-10-27'
+  link: https://doi.org/hbkxsv
+  orcid: 0000-0002-0215-8894
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3758/s13423-023-02253-x
+  title: What is behind partial repetition costs? Event-files do not fully occupy
+    bound feature codes
+  authors:
+  - Viola Mocke
+  - Elena Benini
+  - Juhi Parmar
+  - Moritz Schiltenwolf
+  - Wilfried Kunde
+  publisher: Psychonomic Bulletin &amp; Review
+  date: '2023-03-03'
+  link: https://doi.org/hbkxsw
+  orcid: 0000-0002-0215-8894
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5334/joc.220
+  title: Contextual Features of the Cue Enter Episodic Bindings in Task Switching
+  authors:
+  - Elena Benini
+  - Iring Koch
+  - Susanne Mayr
+  - Christian Frings
+  - Andrea M. Philipp
+  publisher: Journal of Cognition
+  date: '2022-01-01'
+  link: https://doi.org/hbkxsx
+  orcid: 0000-0002-0215-8894
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1162/imag_a_00400
   title: Trial-by-trial detection of cognitive events in neural time-series
   authors:
@@ -533,5 +662,24 @@
   date: '2025-12-31'
   link: https://doi.org/hbhxrk
   image: https://iiif.elifesciences.org/epp/108049%2Fv2%2Fcontent%2F661505v2_fig3.tif/full/max/0/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23668/psycharchives.21167
+  title: Response Selection Can Feed Back on Task Selection Through Episodic Retrieval
+  authors:
+  - Elena Benini
+  - "Malte M\xF6ller"
+  - Iring Koch
+  - Ruyi Qiu
+  - Susanne Mayr
+  - Andrea M. Philipp
+  - James A. Grange
+  - Luca Moretti
+  publisher: PsychArchives
+  date: '2025-08-28'
+  link: https://doi.org/hbkxsz
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.23668/psycharchives.21167
   plugin: sources.py
   file: sources.yaml
