@@ -1,6 +1,6 @@
 ---
 name: Megan Dailey
-image: images/photo.jpg
+image: images/megan.jpeg
 description: Postdoctoral researcher
 role: postdoc
 links:
