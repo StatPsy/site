@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31234/osf.io/xp69t_v1
+  title: A harmonized trial-level dataset of picture-word interference
+  authors:
+  - Louis Schiekiera
+  - Rasha Abdel Rahman
+  - Vincent Gruber
+  - "Audrey B\xFCrki"
+  - Antje Lorenz
+  - Kirsten Stark
+  - Fritz Guenther
+  publisher: Center for Open Science
+  date: '2026-05-08'
+  link: https://doi.org/hch7j7
+  orcid: 0000-0002-1390-2826
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cognition.2025.106316
   title: 'Say it again, you''ll be faster: Or on how the language production system
     keeps track of co-occurrences'
@@ -304,7 +320,7 @@
 - title: Word onset phonetic properties and motor artifacts in speech production EEG
     recordings
   publisher: Psychophysiology
-  date: '2017-09-29'
+  date: '2026-06-12'
   link: http://10.1111/psyp.12982
   orcid: 0000-0002-1390-2826
   plugin: orcid.py
@@ -526,6 +542,41 @@
   orcid: 0000-0002-1390-2826
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5334/joc.512
+  title: Repeating Task-Irrelevant Contexts Does Not Bias Task Choice and Performance
+    in Voluntary Task Switching
+  authors:
+  - Elena Benini
+  - David Dignath
+  - Moritz Schiltenwolf
+  - Iring Koch
+  - Andrea M. Philipp
+  - Andrea Kiesel
+  publisher: Journal of Cognition
+  date: '2026-01-01'
+  link: https://doi.org/hch7j8
+  orcid: 0000-0002-0215-8894
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/4zhc7_v1
+  title: Does Binding Equal Binding? A Comparative Review and Domain-General Bayesian
+    Perspective
+  authors:
+  - Marcel Raphael Schreiner
+  - Kathrin Sadus
+  - Elena Benini
+  - Laura-Isabelle Klatt
+  - Nicolas D. Lutz
+  - Viola Mocke
+  - Philipp Musfeld
+  - Christina Ursula Pfeuffer
+  - Andrea Kiesel
+  publisher: Center for Open Science
+  date: '2026-05-30'
+  link: https://doi.org/hch7j9
+  orcid: 0000-0002-0215-8894
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3758/s13423-023-02409-9
   title: 'Evidence of task-triggered retrieval of the previous response: a binding
     perspective on response-repetition benefits in task switching'
@@ -666,16 +717,8 @@
   file: sources.yaml
 - id: doi:10.23668/psycharchives.21167
   title: Response Selection Can Feed Back on Task Selection Through Episodic Retrieval
-  authors:
-  - Elena Benini
-  - "Malte M\xF6ller"
-  - Iring Koch
-  - Ruyi Qiu
-  - Susanne Mayr
-  - Andrea M. Philipp
-  - James A. Grange
-  - Luca Moretti
-  publisher: PsychArchives
+  authors: []
+  publisher: Leibniz Institute for Psychology (ZPID)
   date: '2025-08-28'
   link: https://doi.org/hbkxsz
   buttons:
