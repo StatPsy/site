@@ -2,7 +2,7 @@
 name: Lucas Ruhoff
 image: images/lucasr.png
 description: Student assistant
-role: postdoc
+role: undergrad
 links:
   email: lucas.ruhoff@unil.ch
   github: LRUHOFF
