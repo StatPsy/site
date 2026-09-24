@@ -1,6 +1,6 @@
 ---
 name: Lucas Ruhoff
-image: images/lucasr.png
+image: images/lucasr.jpeg
 description: Student assistant
 role: undergrad
 links:
