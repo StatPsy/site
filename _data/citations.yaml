@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3758/s13423-026-02954-z
+  title: Fast cars, slow words? Tracking processing of concurrent speaking and driving
+    in real time
+  authors:
+  - Marie Hansen
+  - Pamela Fuhrmeister
+  - Agnieszka Hearder
+  - "Audrey B\xFCrki"
+  publisher: Psychonomic Bulletin &amp; Review
+  date: '2026-09-03'
+  link: https://doi.org/hckq9w
+  orcid: 0000-0002-1390-2826
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5334/joc.520
   title: Age-Related Differences in Naming Latency Variability
   authors:
