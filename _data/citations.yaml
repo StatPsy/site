@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.jml.2026.104783
+  title: "Fast planning \u2014 fast production? The link between higher-level planning\
+    \ and acoustic duration in single word production"
+  authors:
+  - Marie Hansen
+  - "Audrey B\xFCrki"
+  publisher: Journal of Memory and Language
+  date: '2026-12-01'
+  link: https://doi.org/hck73b
+  orcid: 0000-0002-1390-2826
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3758/s13423-026-02954-z
   title: Fast cars, slow words? Tracking processing of concurrent speaking and driving
     in real time
@@ -182,6 +194,21 @@
   publisher: 'Collabra: Psychology'
   date: '2023-01-01'
   link: https://doi.org/hbjp72
+  orcid: 0000-0002-1390-2826
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/23273798.2022.2030483
+  title: Behavioural and EEG evidence for inter-individual variability in late encoding
+    stages of word production
+  authors:
+  - Pamela Fuhrmeister
+  - Sylvain Madec
+  - Antje Lorenz
+  - Shereen Elbuy
+  - "Audrey B\xFCrki"
+  publisher: Language, Cognition and Neuroscience
+  date: '2022-02-08'
+  link: https://doi.org/hck73c
   orcid: 0000-0002-1390-2826
   plugin: orcid.py
   file: orcid.yaml
